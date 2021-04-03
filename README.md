@@ -6,9 +6,9 @@
    
    From pre-order and post-order
    
-   BTS from Post-order
+   BST from Post-order
    
-   BTS from Pre-order
+   BST from Pre-order
    
-   BTS from In-order
+   BST from In-order
    
